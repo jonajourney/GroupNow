@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EventPlannerApp</string>
+    <string name="sports_prompt">Choose Type</string>
+
+    <string-array name="event_sports">
+        <item>Choose Type</item>
+        <item>Gaming</item>
+        <item>Sports</item>
+        <item>Social</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>

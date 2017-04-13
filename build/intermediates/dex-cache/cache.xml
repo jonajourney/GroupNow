@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/johnxiangrhong.soh/.android/build-cache/36ae393b1dad3342d745807c8dd4f8413c19691a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c55b9c2a9fd2729d2eeee6edfac4001821b50d32">
+        <dex dex="/Users/johnxiangrhong.soh/Desktop/GroupNow/umn-csci-5115S17/app/build/intermediates/pre-dexed/debug/classes_2247ae0671926f2bd614ad52b8dd70f1ab6621a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnxiangrhong.soh/.android/build-cache/5b91e06c977c43133174d8669ef828469f0991e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/johnxiangrhong.soh/Desktop/GroupNow/umn-csci-5115S17/app/build/intermediates/pre-dexed/debug/classes_2fa3554477da04feb16254a4868c76eb11d7d340.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnxiangrhong.soh/.android/build-cache/bea24f4aa079c0f4e809967d21c75c57ffc843a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/johnxiangrhong.soh/Desktop/GroupNow/umn-csci-5115S17/app/build/intermediates/pre-dexed/debug/classes_81573b05a7f543a40d1573e6c50f6f145621ec2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/johnxiangrhong.soh/.android/build-cache/ec4ebf13875a5de91b4b4c8fdcebb839747cbd04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/johnxiangrhong.soh/Desktop/GroupNow/umn-csci-5115S17/app/build/intermediates/pre-dexed/debug/classes_d4a76444fdc0261368135ecac3011174d8a9da33.jar" />
+    </item>
+
+</items>
